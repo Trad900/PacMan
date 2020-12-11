@@ -13,7 +13,7 @@ public class PowerPellets
     private boolean visible;
     public PowerPellets(int xx, int yy)
     {
-        c = new Color(228,54,216);
+        c = new Color(10,30,50);//228,54,216);
         x = xx;
         y = yy;
         visible = true;
